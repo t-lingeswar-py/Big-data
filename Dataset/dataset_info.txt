@@ -1,0 +1,6 @@
+Dataset Name: Stanford SNAP Pokec Social Network
+Source: https://snap.stanford.edu/data/soc-Pokec.html
+Full Network: 1,632,803 Vertices, 30,622,564 Directed Edges
+Benchmark Subset File: pokec_3M.txt
+Subset Statistics: 663,230 Unique Vertices, 3,000,000 Directed Edges
+Format: Tab-separated values (Source_User_ID \t Destination_User_ID)
